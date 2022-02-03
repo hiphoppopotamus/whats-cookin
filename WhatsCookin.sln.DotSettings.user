@@ -1,0 +1,6 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=327D2B16_002D87E4_002D4C74_002DA1D3_002D246ED85D8B66_002Fd_003AData_002Ff_003AAppDBContext_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=327D2B16_002D87E4_002D4C74_002DA1D3_002D246ED85D8B66_002Fd_003ARepositories_002Ff_003AIUserRepository_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=327D2B16_002D87E4_002D4C74_002DA1D3_002D246ED85D8B66_002Fd_003ARepositories_002Ff_003AUserRepository_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=327D2B16_002D87E4_002D4C74_002DA1D3_002D246ED85D8B66_002Ff_003AProgram_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:Boolean x:Key="/Default/UserDictionary/Words/=Cookin/@EntryIndexedValue">True</s:Boolean></wpf:ResourceDictionary>
