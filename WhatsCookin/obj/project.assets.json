@@ -1473,11 +1473,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/euanwidjaja/Desktop/WhatsCookin/WhatsCookin/WhatsCookin.csproj",
+      "projectUniqueName": "/Users/euanwidjaja/Desktop/Summer Coding/WhatsCookin/WhatsCookin/WhatsCookin.csproj",
       "projectName": "WhatsCookin",
-      "projectPath": "/Users/euanwidjaja/Desktop/WhatsCookin/WhatsCookin/WhatsCookin.csproj",
+      "projectPath": "/Users/euanwidjaja/Desktop/Summer Coding/WhatsCookin/WhatsCookin/WhatsCookin.csproj",
       "packagesPath": "/Users/euanwidjaja/.nuget/packages/",
-      "outputPath": "/Users/euanwidjaja/Desktop/WhatsCookin/WhatsCookin/obj/",
+      "outputPath": "/Users/euanwidjaja/Desktop/Summer Coding/WhatsCookin/WhatsCookin/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/euanwidjaja/.nuget/NuGet/NuGet.Config"

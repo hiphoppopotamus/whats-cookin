@@ -11,8 +11,21 @@ using WhatsCookin.Repositories.Interfaces;
 using WhatsCookin.Services.TokenService;
 
 var builder = WebApplication.CreateBuilder(args);
-
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
+// Configure CORS policy
+
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("CORSPolicy",
+        corsPolicyBuilder =>
+        {
+            corsPolicyBuilder
+                .AllowAnyMethod()
+                .AllowAnyHeader()
+                .WithOrigins("http://localhost:3000", "https://appname.azurestaticapps.net");
+        });
+});
 
 // Add services to the container.
 
@@ -74,6 +87,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseCors("CORSPolicy");
 
 app.UseAuthentication();
 
